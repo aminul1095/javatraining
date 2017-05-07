@@ -19,6 +19,6 @@ public class stringtest {
 		System.out.println(ReplaceString1);
 		
 		s1="Hello";
-		System.out.println(s1.concat(" World")); 
+		System.out.println(s1.concat("World")); 
 	}
 }

@@ -15,10 +15,7 @@ public class stringtest {
 		System.out.println(s.length());
 		
 		String s1="Java is a prer. I like Java";
-		String ReplaceString1=s1.replace("Java", "Lava");
+		String ReplaceString1=s.replace("Java", "Lava");
 		System.out.println(ReplaceString1);
-		
-		s1="Hello";
-		System.out.println(s1.concat(" World")); 
 	}
 }
